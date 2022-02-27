@@ -17,7 +17,7 @@
 
 # 【电脑VPN推荐】2022年PC端Windows电脑翻墙软件
 
-![电脑VPN](https://qiangup.com/wp-content/uploads/2022/02/the-best-windows-vpn.jpg)
+![电脑VPN](https://img1.mydrivers.com/img/20200611/2c22c5f7000c421bb9e47e23b9a4690b.png)
 
 PC端目前还是最常用的工作环境，因此要访问国外网站就必须要实现电脑翻墙。当然在电脑端使用VPN非常简单，很多电脑翻墙软件都提供APP客户端下载。但能在中国稳定使用的VPN并不多，本文的电脑VPN推荐将介绍几款好用的VPN和已经常见的电脑翻墙方法。
 
