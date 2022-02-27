@@ -2,15 +2,15 @@
 
 | 排行 | VPN | 评级 |
 | --- | --- | --- |
-| **\# 1** | ![IvacyVPN](https://camo.githubusercontent.com/60e606eb7c302d239de204d3040f7c24e02ea1b5deef2a9e50ad2850924b501a/68747470733a2f2f7777772e76706e6d656e746f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30352f497661637956504e2d486f722e737667 "IvacyVPN") | [» **访问 IvacyVPN**](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=wuxianab&data2=pcvpn)  
+| **\# 1** | ![IvacyVPN](https://camo.githubusercontent.com/60e606eb7c302d239de204d3040f7c24e02ea1b5deef2a9e50ad2850924b501a/68747470733a2f2f7777772e76706e6d656e746f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30352f497661637956504e2d486f722e737667 "IvacyVPN") | [» **访问 IvacyVPN**](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=pcvpn)  
 (含优惠折扣) |
-| **\# 2** | ![NordVPN](https://camo.githubusercontent.com/4f4e8995f76ab8795b26ed05e715781b27a6f0b8bcf0557cf8d53ca9472078ab/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f6c6f676f2d6e6f726476706e2e706e67 "NordVPN") | [» **访问 NordVPN**](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=pcvpn)  
+| **\# 2** | ![NordVPN](https://camo.githubusercontent.com/4f4e8995f76ab8795b26ed05e715781b27a6f0b8bcf0557cf8d53ca9472078ab/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f6c6f676f2d6e6f726476706e2e706e67 "NordVPN") | [» **访问 NordVPN**](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=pcvpn)  
 (含优惠折扣) |
-| **\# 3** | ![ExpressVPN](https://camo.githubusercontent.com/855cc9b2203ee505a69205d5d6db0f8b063e0bdf822432700df808f4a2a08f27/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6c6f6e672d6c6f676f2d6578707265737376706e2d6e65772e706e67 "ExpressVPN") | [» **访问 ExpressVPN**](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=pcvpn)  
+| **\# 3** | ![ExpressVPN](https://camo.githubusercontent.com/855cc9b2203ee505a69205d5d6db0f8b063e0bdf822432700df808f4a2a08f27/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6c6f6e672d6c6f676f2d6578707265737376706e2d6e65772e706e67 "ExpressVPN") | [» **访问 ExpressVPN**](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=pcvpn)  
 (含三个月免费折扣) |
 | **\# 4** | ![Panda VPN](https://camo.githubusercontent.com/fa576c0f83d643f0200aa992c8b7220b0cbba191343f119bcd2563603c32e7a6/68747470733a2f2f6765617276706e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f70616e64612d6c6f676f332e706e67 "Panda VPN") | [» **访问 Panda**](https://www.pantoto.xyz/r/22216799)  
 (含优惠折扣) |
-| **\# 5** | ![PureVPN](https://camo.githubusercontent.com/eacc7f3ccf6a4ef34eafad4d0e368263f1dada80d144bfd9370a44b288ad4b82/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30382f6c6f6e672d6c6f676f2d7075726576706e2e706e67 "PureVPN") | [» **访问 PureVPN**](https://billing.purevpn.com/aff.php?aff=42611&data1=wuxianab&data2=pcvpn)  
+| **\# 5** | ![PureVPN](https://camo.githubusercontent.com/eacc7f3ccf6a4ef34eafad4d0e368263f1dada80d144bfd9370a44b288ad4b82/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30382f6c6f6e672d6c6f676f2d7075726576706e2e706e67 "PureVPN") | [» **访问 PureVPN**](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=pcvpn)  
 (含优惠折扣) |
 
 \---
@@ -31,11 +31,11 @@ PC端目前还是最常用的工作环境，因此要访问国外网站就必须
 
 如果你不想读完整篇文章，可以选择以下最佳电脑翻墙软件，也可以继续阅读文后更详细的VPN测评：
 
-*   1.[ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=pcvpn) —— 不限带宽速度超快的电脑VPN首选，提供全球服务器，稳定运营十多年。
+*   1.[ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitgitwuxian227&data1=pcvpn) —— 不限带宽速度超快的电脑VPN首选，提供全球服务器，稳定运营十多年。
 *   2.[PandaVPN](https://www.pankvyh.xyz/r/22216799) —— 中国翻墙特供，国外华人团队运营，适合国人需求。
-*   3.[Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianab&data2=pcvpn) —— 价格便宜，不限设备数量，独特的翻墙模式，美国节点很多。
-*   4.[PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianab&data2=pcvpn) —— 性价比高，连接速度快，支持高清视频播放。
-*   5.[NordVPN](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=pcvpn) —— 全球知名VPN，提供混淆服务器，以及高级安全性。
+*   3.[Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitgitwuxian227&data2=pcvpn) —— 价格便宜，不限设备数量，独特的翻墙模式，美国节点很多。
+*   4.[PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=gitgitwuxian227&data2=pcvpn) —— 性价比高，连接速度快，支持高清视频播放。
+*   5.[NordVPN](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=pcvpn) —— 全球知名VPN，提供混淆服务器，以及高级安全性。
 
 当然，这些电脑VPN不仅可以在PC端使用，还支持常见的Mac、Linux、iOS、Android平台，以及Firefox/Chrome浏览器扩展插件。
 
@@ -56,7 +56,7 @@ PC端目前还是最常用的工作环境，因此要访问国外网站就必须
 
 以下是目前最好用的电脑VPN推荐，它们提供了兼容性良好的PC端电脑版VPN。应用程序简单易用设计美观，即便是新手也能一键连接立即翻墙。有些还提供中国国内IP节点，是不错的海外华人[翻墙回国VPN](/into-china/)。除此之外，还能用于玩游戏、P2P种子下载。
 
-### 1.[ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=pcvpn) —— 翻墙首选电脑VPN
+### 1.[ExpressVPN](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitgitwuxian227&data1=pcvpn) —— 翻墙首选电脑VPN
 
 多年以来，ExpressVPN在与防火长城斗争，成为中国用户心中位居榜首的翻墙软件，针对中国市场开发的LightWay协议具有高度伪装性和安全性。
 
@@ -72,7 +72,7 @@ PC端目前还是最常用的工作环境，因此要访问国外网站就必须
 
 可以说ExpressVPN唯一的缺点就是价格稍高，但与Astrill每月$20的价格比起来要良心的多。使用本站提供的优惠链接可以将价格从$8.32/月降至$6.67/月。30天退款保证可以无风险试用，遇到问题也可以联系24/在线客服解决。
 
-[获取ExpressVPN优惠](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxianab&data1=pcvpn)
+[获取ExpressVPN优惠](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitgitwuxian227&data1=pcvpn)
 
 ExpressVPN每台服务器上都运行了TrustedServer技术，用户所有的连接数据都在内存中运行，而不会储存在磁盘中，确保了零日志策略并且通过了第三方审核。
 
@@ -102,7 +102,7 @@ PandaVPN价格非常便宜每月只需$2.77，提供7天退款保证，这在中
 
 * * *
 
-### 3.[Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianab&data2=pcvpn) —— 不限设备数量的电脑VPN
+### 3.[Surfshark](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitgitwuxian227&data2=pcvpn) —— 不限设备数量的电脑VPN
 
 Surfshark是VPN市场中的新人，但凭借良好的翻墙体验，以及便宜的价格和不限设备数量，赢得了中国用户的认可。
 
@@ -120,7 +120,7 @@ APP中还内置了终止开关、IP/DNS泄漏保护功能。Camouflage/NoBorders
 
 每月$2.49的价格让Surfshark成为一款好用且[便宜的VPN](/cheap-vpn/)，黑五优惠优惠折扣也很大。支持Visa信用卡、PayPal、比特币付款，通过香港IP访问官网还可以通过支付宝付款。提供30天退款保证和24/7在线客服支持。
 
-[获取Surfshark优惠](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitwuxianab&data2=pcvpn)
+[获取Surfshark优惠](https://get.surfshark.net/aff_c?offer_id=6&aff_id=3401&data1=gitgitwuxian227&data2=pcvpn)
 
 银行级别的AES-256-GCM加密可以保护连接数据，并且已经通过了Cure53的安全审核。在连接到不安全的公共WiFi时也能保护隐私数据。
 
@@ -128,7 +128,7 @@ APP中还内置了终止开关、IP/DNS泄漏保护功能。Camouflage/NoBorders
 
 * * *
 
-### 4.[PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianab&data2=pcvpn) —— 便宜性价比高的电脑VPN
+### 4.[PureVPN](https://billing.purevpn.com/aff.php?aff=42611&data1=gitgitwuxian227&data2=pcvpn) —— 便宜性价比高的电脑VPN
 
 PureVPN早期成立于香港，拥有丰富的翻墙经验和技术，运营时间长信用良好，官网也有全中文支持，价格便宜用户体验友好。
 
@@ -146,7 +146,7 @@ PureVPN支持电脑VPN在内的20十多种平台，包括常见的Mac、Windows�
 
 价格方面PureVPN也极具竞争力，本站提供的PureVPN优惠可将价格降至每月$1.99。比较有趣的是，PureVPN提供31天退款保证，比其他大多数服务商要多一天。
 
-[获取PureVPN优惠](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxianab&data2=pcvpn)
+[获取PureVPN优惠](https://billing.purevpn.com/aff.php?aff=42611&data1=gitgitwuxian227&data2=pcvpn)
 
 PureVPN是为数不多提供固定(独立/静态)IP的VPN，适合用来绕过Facebook等网站的IP检测，可以满足外贸人士、海外留学生的特殊需求。
 
@@ -154,7 +154,7 @@ PureVPN是为数不多提供固定(独立/静态)IP的VPN，适合用来绕过Fa
 
 * * *
 
-### 5.[NordVPN](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=pcvpn) —— 安全性高的电脑VPN
+### 5.[NordVPN](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=pcvpn) —— 安全性高的电脑VPN
 
 NordVPN一直都走在技术前沿，其混淆服务器在中国翻墙稳定性不错，能够绕过防火长城的检测，安全性也是公认的行业标杆。
 
@@ -172,7 +172,7 @@ NordVPN一直都走在技术前沿，其混淆服务器在中国翻墙稳定性�
 
 NordVPN两年套餐的价格是每月$3.71，如果不需要NordPass密码管理软件，可以在购买页面删除。目前支持Visa信用卡、银联信用卡以及加密货币付款，提供30天退款保证。
 
-[获取NordVPN优惠](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=wuxianab&aff_sub2=pcvpn)
+[获取NordVPN优惠](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitwuxian227&aff_sub2=pcvpn)
 
 客户端内置的CyberSec可以屏蔽广告和恶意软件，电脑端VPN还支持拆分隧道、多跳IP、终止开关(Kill Switch)。所有服务器都有私有DNS服务器，没有IP/DNS泄露问题。
 
@@ -302,13 +302,13 @@ NordVPN两年套餐的价格是每月$3.71，如果不需要NordPass密码管理
 
 | 排行 | VPN | 评级 |
 | --- | --- | --- |
-| **\# 1** | ![IvacyVPN](https://camo.githubusercontent.com/60e606eb7c302d239de204d3040f7c24e02ea1b5deef2a9e50ad2850924b501a/68747470733a2f2f7777772e76706e6d656e746f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30352f497661637956504e2d486f722e737667 "IvacyVPN") | [» **访问 IvacyVPN**](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=wuxianab&data2=pcvpn)  
+| **\# 1** | ![IvacyVPN](https://camo.githubusercontent.com/60e606eb7c302d239de204d3040f7c24e02ea1b5deef2a9e50ad2850924b501a/68747470733a2f2f7777772e76706e6d656e746f722e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30352f497661637956504e2d486f722e737667 "IvacyVPN") | [» **访问 IvacyVPN**](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitwuxian227&data2=pcvpn)  
 (含优惠折扣) |
-| **\# 2** | ![NordVPN](https://camo.githubusercontent.com/4f4e8995f76ab8795b26ed05e715781b27a6f0b8bcf0557cf8d53ca9472078ab/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f6c6f676f2d6e6f726476706e2e706e67 "NordVPN") | [» **访问 NordVPN**](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=wuxianab&aff_click_id=pcvpn)  
+| **\# 2** | ![NordVPN](https://camo.githubusercontent.com/4f4e8995f76ab8795b26ed05e715781b27a6f0b8bcf0557cf8d53ca9472078ab/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f6c6f676f2d6e6f726476706e2e706e67 "NordVPN") | [» **访问 NordVPN**](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=pcvpn)  
 (含优惠折扣) |
-| **\# 3** | ![ExpressVPN](https://camo.githubusercontent.com/855cc9b2203ee505a69205d5d6db0f8b063e0bdf822432700df808f4a2a08f27/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6c6f6e672d6c6f676f2d6578707265737376706e2d6e65772e706e67 "ExpressVPN") | [» **访问 ExpressVPN**](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=wuxianab&data1=pcvpn)  
+| **\# 3** | ![ExpressVPN](https://camo.githubusercontent.com/855cc9b2203ee505a69205d5d6db0f8b063e0bdf822432700df808f4a2a08f27/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6c6f6e672d6c6f676f2d6578707265737376706e2d6e65772e706e67 "ExpressVPN") | [» **访问 ExpressVPN**](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=pcvpn)  
 (含三个月免费折扣) |
 | **\# 4** | ![Panda VPN](https://camo.githubusercontent.com/fa576c0f83d643f0200aa992c8b7220b0cbba191343f119bcd2563603c32e7a6/68747470733a2f2f6765617276706e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f70616e64612d6c6f676f332e706e67 "Panda VPN") | [» **访问 Panda**](https://www.pantoto.xyz/r/22216799)  
 (含优惠折扣) |
-| **\# 5** | ![PureVPN](https://camo.githubusercontent.com/eacc7f3ccf6a4ef34eafad4d0e368263f1dada80d144bfd9370a44b288ad4b82/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30382f6c6f6e672d6c6f676f2d7075726576706e2e706e67 "PureVPN") | [» **访问 PureVPN**](https://billing.purevpn.com/aff.php?aff=42611&data1=wuxianab&data2=pcvpn)  
+| **\# 5** | ![PureVPN](https://camo.githubusercontent.com/eacc7f3ccf6a4ef34eafad4d0e368263f1dada80d144bfd9370a44b288ad4b82/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30382f6c6f6e672d6c6f676f2d7075726576706e2e706e67 "PureVPN") | [» **访问 PureVPN**](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=pcvpn)  
 (含优惠折扣) |
