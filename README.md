@@ -6,10 +6,8 @@
 (含优惠折扣) |
 | **\# 2** | ![NordVPN](https://camo.githubusercontent.com/4f4e8995f76ab8795b26ed05e715781b27a6f0b8bcf0557cf8d53ca9472078ab/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31302f6c6f676f2d6e6f726476706e2e706e67 "NordVPN") | [» **访问 NordVPN**](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitwuxian227&aff_click_id=pcvpn)  
 (含优惠折扣) |
-| **\# 3** | ![ExpressVPN](https://camo.githubusercontent.com/855cc9b2203ee505a69205d5d6db0f8b063e0bdf822432700df808f4a2a08f27/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6c6f6e672d6c6f676f2d6578707265737376706e2d6e65772e706e67 "ExpressVPN") | [» **访问 ExpressVPN**](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitwuxian227&data1=pcvpn)  
+| **\# 3** | ![ExpressVPN](https://camo.githubusercontent.com/855cc9b2203ee505a69205d5d6db0f8b063e0bdf822432700df808f4a2a08f27/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f6c6f6e672d6c6f676f2d6578707265737376706e2d6e65772e706e67 "ExpressVPN") | [» **访问 ExpressVPN**](https://go.expressvpn.com/c/4034381/1608823/16063?subId1=gitwuxian227&subId2=meimei227)  
 (含三个月免费折扣) |
-| **\# 4** | ![Panda VPN](https://camo.githubusercontent.com/fa576c0f83d643f0200aa992c8b7220b0cbba191343f119bcd2563603c32e7a6/68747470733a2f2f6765617276706e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30372f70616e64612d6c6f676f332e706e67 "Panda VPN") | [» **访问 Panda**](https://www.pantoto.xyz/r/22216799)  
-(含优惠折扣) |
 | **\# 5** | ![PureVPN](https://camo.githubusercontent.com/eacc7f3ccf6a4ef34eafad4d0e368263f1dada80d144bfd9370a44b288ad4b82/68747470733a2f2f7777772e76706e646164612e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f30382f6c6f6e672d6c6f676f2d7075726576706e2e706e67 "PureVPN") | [» **访问 PureVPN**](https://billing.purevpn.com/aff.php?aff=42611&data1=gitwuxian227&data2=pcvpn)  
 (含优惠折扣) |
 
